@@ -199,4 +199,4 @@ Kiro: Suggests ORDER BY (user_id, toDate(timestamp)) with LowCardinality
 - **MCP Server License:** [Apache-2.0](https://spdx.org/licenses/Apache-2.0.html) ([source](https://github.com/ClickHouse/mcp-clickhouse/blob/main/LICENSE))
 - **Best Practices Content:** [Apache-2.0](https://spdx.org/licenses/Apache-2.0.html) ([source](https://github.com/ClickHouse/agent-skills/blob/main/LICENSE))
 - **Privacy Policy:** [ClickHouse Privacy Policy](https://clickhouse.com/legal/privacy-policy)
-- **Support:** [coding.aurora@gmail.com](mailto:coding.aurora@gmail.com) | [GitHub Issues](https://github.com/ClickHouse/mcp-clickhouse/issues)
+- **Support:** [GitHub Issues](https://github.com/nklmish/clickhouse-kiro-power/issues)
